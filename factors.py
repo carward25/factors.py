@@ -1,6 +1,6 @@
 #name: Cassidy Ward
 #date: 10/13/2021
-#description: this program
+#description: this program outputs each factor of a number input by a user
 
 num = int(input("Please enter a positive integer: "))
 
